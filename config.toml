@@ -1,0 +1,49 @@
+[server]
+enableStaticServing = true
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+showSidebarNavigation = true
+
+[theme]
+base = "light"
+primaryColor = "#4F46E5"
+backgroundColor = "#F5F7FB"
+secondaryBackgroundColor = "#EEF2FF"
+textColor = "#182238"
+linkColor = "#4F46E5"
+borderColor = "#E3E8F0"
+showWidgetBorder = true
+baseRadius = "14px"
+buttonRadius = "12px"
+baseFontSize = 16
+font = "Noto Sans, sans-serif"
+headingFont = "Noto Sans, sans-serif"
+headingFontWeights = [700, 700, 600, 600, 600, 600]
+headingFontSizes = ["2rem", "1.5rem", "1.25rem", "1.125rem", "1rem", "1rem"]
+metricValueFontSize = "2rem"
+chartCategoricalColors = ["#4F46E5", "#0F766E", "#A5B4FC", "#5EEAD4", "#94A3B8"]
+showSidebarBorder = true
+
+[[theme.fontFaces]]
+family = "Noto Sans"
+url = "app/static/fonts/NotoSans-Regular.ttf"
+weight = 400
+
+[[theme.fontFaces]]
+family = "Noto Sans"
+url = "app/static/fonts/NotoSans-SemiBold.ttf"
+weight = 600
+
+[[theme.fontFaces]]
+family = "Noto Sans"
+url = "app/static/fonts/NotoSans-Bold.ttf"
+weight = 700
+
+[theme.sidebar]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F7FB"

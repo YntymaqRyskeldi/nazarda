@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="NAZARDA">
+  <rect x="4" y="4" width="40" height="40" rx="12" fill="#4F46E5"/>
+  <path d="M15 34V14h4.2l9.6 13.1V14H33v20h-4.2L19.2 20.9V34z" fill="#FFFFFF"/>
+  <circle cx="37.5" cy="11.5" r="4.5" fill="#2DD4BF" stroke="#FFFFFF" stroke-width="2"/>
+</svg>

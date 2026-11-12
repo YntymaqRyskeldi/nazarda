@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" role="img" aria-label="NAZARDA">
+  <rect x="2" y="4" width="40" height="40" rx="12" fill="#4F46E5"/>
+  <path d="M13 34V14h4.2l9.6 13.1V14H31v20h-4.2L17.2 20.9V34z" fill="#FFFFFF"/>
+  <circle cx="35.5" cy="11.5" r="4.5" fill="#2DD4BF" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="54" y="32" font-family="Noto Sans, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1.5" fill="#182238">NAZARDA</text>
+</svg>

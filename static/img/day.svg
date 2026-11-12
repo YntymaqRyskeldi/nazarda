@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Оқу, кітап, спорт және уақыт">
+  <!-- Бір стильдегі өз иллюстрациясы: кітап, сағат, доп, жапырақ -->
+  <rect x="0" y="0" width="240" height="180" rx="20" fill="#EEF2FF"/>
+  <circle cx="186" cy="44" r="26" fill="#FFFFFF" stroke="#4F46E5" stroke-width="4"/>
+  <path d="M186 30v15l10 6" stroke="#182238" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M40 128c18-10 46-10 64 0V70c-18-10-46-10-64 0z" fill="#FFFFFF" stroke="#4F46E5" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M104 128c18-10 46-10 64 0V70c-18-10-46-10-64 0z" fill="#FFFFFF" stroke="#4F46E5" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M54 84c10-4 24-4 36 0M54 98c10-4 24-4 36 0M118 84c10-4 24-4 36 0" stroke="#A5B4FC" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="190" cy="128" r="22" fill="#0F766E"/>
+  <path d="M168 128h44M190 106c-8 7-8 37 0 44M190 106c8 7 8 37 0 44" stroke="#E8F7F3" stroke-width="3" fill="none"/>
+  <path d="M28 44c10-14 28-14 34 0-14 6-26 6-34 0z" fill="#2DD4BF"/>
+  <path d="M30 150h180" stroke="#C7D2FE" stroke-width="4" stroke-linecap="round"/>
+</svg>
